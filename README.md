@@ -17,7 +17,7 @@ Os exemplos podem incluir:
 - Middlewares
 - Trabalhando com JSON e arquivos
 - Métodos HTTP
-- Uso de ferramentas como Insomnia.
+- Uso de ferramentas como Insomnia
 
 > ⚠️ Este repositório não tem foco em um projeto final, mas sim no estudo e prática dos fundamentos.
 
